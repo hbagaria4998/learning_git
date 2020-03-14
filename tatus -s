@@ -1,0 +1,49 @@
+[33mcommit fedbd65bd1aed6f3b5e69394f10608a9f83fcc75[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: fd55e17 a3fd9f5
+Author: shubham0420 <sharma.shubham6522@gmail.com>
+Date:   Sat Mar 14 17:25:01 2020 +0530
+
+    Merge branch 'master' of https://github.com/hbagaria4998/learning_git
+
+[33mcommit fd55e17c2b01a3a11d71b09eac25f0e02fc4a8c4[m
+Author: shubham0420 <sharma.shubham6522@gmail.com>
+Date:   Sat Mar 14 17:24:01 2020 +0530
+
+    wow
+
+[33mcommit a3fd9f53fa8e19def658c7d2bce1bd9d6cf2d14c[m
+Merge: 112d58d 2516726
+Author: Himanshu Bagaria <bagaria.hb@gmail.com>
+Date:   Sat Mar 14 17:22:27 2020 +0530
+
+    4th change
+
+[33mcommit 112d58d1f9e4a429c2333e194b09672193927597[m
+Author: Himanshu Bagaria <bagaria.hb@gmail.com>
+Date:   Sat Mar 14 17:15:23 2020 +0530
+
+    hb 3 commit
+
+[33mcommit 25167261463c39d6fe5258a59f722a7d4303f79b[m
+Author: shubham0420 <sharma.shubham6522@gmail.com>
+Date:   Sat Mar 14 17:14:15 2020 +0530
+
+    added2
+
+[33mcommit 667ccb69b6905a3423836de4fb1b9aef54c97219[m
+Author: Himanshu Bagaria <bagaria.hb@gmail.com>
+Date:   Sat Mar 14 17:13:03 2020 +0530
+
+    hbs second commit
+
+[33mcommit cbd8baa25937fe4ab227efdf8b4480f82d3debb0[m
+Author: shubham0420 <sharma.shubham6522@gmail.com>
+Date:   Sat Mar 14 17:11:29 2020 +0530
+
+    wow
+
+[33mcommit 31bda7c384298d09528eed9fa0c3e8ff72554a6f[m
+Author: Himanshu Bagaria <bagaria.hb@gmail.com>
+Date:   Sat Mar 14 16:59:50 2020 +0530
+
+    first-commit
